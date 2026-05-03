@@ -1,0 +1,13 @@
+,value
+high_confidence_area,0.0
+sar_only_area,0.4425
+optical_only_area,0.0035
+false_positives_removed,0.4442
+cloud_cover_percentage,7.461862032499152
+sar_threshold,-18.0
+ndwi_threshold,0.3
+slope_threshold,25.0
+total_flood_area,0.446
+sar_contribution_percentage,99.2152466367713
+dual_sensor_confidence,0.0
+filtering_efficiency,49.898899123792404
